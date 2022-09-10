@@ -1,6 +1,5 @@
 # Till-Pos-Test-Cases
-Till Pos Test Cases
-I created the test cases by using Excel. Please download it and run it by excel. 
+I created the test cases by using Excel. Please download TillPos.xlsx and run it by excel. 
 For the details: I created 4 tabs:
   - Summary: Summarize the result of test execution 
   - Computer Database List: The list test cases to verify the Computer Database List page
